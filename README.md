@@ -13,3 +13,5 @@ print(int(a)+int(b))
 ```
 
 [채점결과](https://www.acmicpc.net/source/53950264)
+
+수정함
