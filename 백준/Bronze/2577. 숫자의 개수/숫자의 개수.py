@@ -5,6 +5,8 @@ B = int(sys.stdin.readline())
 C = int(sys.stdin.readline())
 
 num = str(A*B*C)
-print(num.count('0'))
-for n in range(1,10):
+# b = int(input()) * int(input()) * int(input())
+# 이렇게도 쓸 수 있구나 !!!!!!!
+
+for n in range(10):
     print(num.count(str(n)))
