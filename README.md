@@ -1,17 +1,7 @@
-# 백준 2557 문제
+# 알고리즘 공부를 위한 저장소 <3
 
-```python
-print('Hello World!')
-```
+## 약속 !
 
-[채점결과](https://www.acmicpc.net/source/53949974)
-
-# 백준 1000 문제
-```python
-a, b = input().split()
-print(int(a)+int(b))
-```
-
-[채점결과](https://www.acmicpc.net/source/53950264)
-
-수정함
+1. 매일 문제를 풀 수 있게 노력하자!
+2. 최대한 주석을 많이 달자!
+3. 너무 안풀리는 문제는 찾아보되, 다시 스스로 풀어보자!
