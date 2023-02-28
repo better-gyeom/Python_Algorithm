@@ -20,5 +20,6 @@ for j in range(1, 7):
         elif grade[j][l] > K:
             cnt = cnt + (grade[j][l] // K) + 1
             # print('cnt',cnt)
-
+        elif grade[j][l] == 0:
+            continue
 print(cnt)
